@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1619438867 source:l:\i курс\А-1-20\aristarkhov\lab04\lab04\histogram.cpp
+	<vector>
+	"histogram.h"
+
+1619438868 l:\i курс\А-1-20\aristarkhov\lab04\lab04\histogram.h
+	<vector>
+
+1619438868 source:l:\i курс\А-1-20\aristarkhov\lab04\lab04\svg.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1619445446 source:l:\i курс\А-1-20\aristarkhov\lab04\lab04\main.cpp
+	<curl/curl.h>
+	"histogram.h"
+	"svg.h"
+	<iostream>
+	<vector>
+	<string>
+
+1619442994 l:\i курс\А-1-20\aristarkhov\lab04\lab04\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"typecheck-gcc.h"
+
+1619442994 l:\i курс\А-1-20\aristarkhov\lab04\lab04\curl\include\curl\curlver.h
+
+1619442994 l:\i курс\А-1-20\aristarkhov\lab04\lab04\curl\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1619442994 l:\i курс\А-1-20\aristarkhov\lab04\lab04\curl\include\curl\easy.h
+
+1619442994 l:\i курс\А-1-20\aristarkhov\lab04\lab04\curl\include\curl\multi.h
+	"curl.h"
+
+1619442994 l:\i курс\А-1-20\aristarkhov\lab04\lab04\curl\include\curl\urlapi.h
+	"curl.h"
+
+1619442994 l:\i курс\А-1-20\aristarkhov\lab04\lab04\curl\include\curl\options.h
+
+1619442994 l:\i курс\А-1-20\aristarkhov\lab04\lab04\curl\include\curl\typecheck-gcc.h
+
+1619438868 l:\i курс\А-1-20\aristarkhov\lab04\lab04\svg.h
+	<vector>
+	<string>
+
+1619438868 source:c:\users\dns\desktop\для програмирования\Лабы Прога\1\lab04\lab04\histogram.cpp
+	<vector>
+	"histogram.h"
+
+1619438870 c:\users\dns\desktop\для програмирования\Лабы Прога\1\lab04\lab04\histogram.h
+	<vector>
+
+1619445448 source:c:\users\dns\desktop\для програмирования\Лабы Прога\1\lab04\lab04\main.cpp
+	<curl/curl.h>
+	"histogram.h"
+	"svg.h"
+	<iostream>
+	<vector>
+	<string>
+
+1619442996 c:\users\dns\desktop\для програмирования\Лабы Прога\1\lab04\lab04\curl\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"typecheck-gcc.h"
+
+1619442996 c:\users\dns\desktop\для програмирования\Лабы Прога\1\lab04\lab04\curl\include\curl\curlver.h
+
+1619442996 c:\users\dns\desktop\для програмирования\Лабы Прога\1\lab04\lab04\curl\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1619442996 c:\users\dns\desktop\для програмирования\Лабы Прога\1\lab04\lab04\curl\include\curl\easy.h
+
+1619442996 c:\users\dns\desktop\для програмирования\Лабы Прога\1\lab04\lab04\curl\include\curl\multi.h
+	"curl.h"
+
+1619442996 c:\users\dns\desktop\для програмирования\Лабы Прога\1\lab04\lab04\curl\include\curl\urlapi.h
+	"curl.h"
+
+1619442996 c:\users\dns\desktop\для програмирования\Лабы Прога\1\lab04\lab04\curl\include\curl\options.h
+
+1619442996 c:\users\dns\desktop\для програмирования\Лабы Прога\1\lab04\lab04\curl\include\curl\typecheck-gcc.h
+
+1619438870 c:\users\dns\desktop\для програмирования\Лабы Прога\1\lab04\lab04\svg.h
+	<vector>
+	<string>
+
+1619438870 source:c:\users\dns\desktop\для програмирования\Лабы Прога\1\lab04\lab04\svg.cpp
+	<iostream>
+	<vector>
+	<string>
+
